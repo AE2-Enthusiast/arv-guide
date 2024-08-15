@@ -3,7 +3,7 @@ A repository of strategies and guides for the 1.7.10 Minecraft modpack Arms Race
 V.
 
 ## Folder Layout
-   - 'grand' is for grand strategies. Putting everything together into one
+   - `grand` is for grand strategies. Putting everything together into one
    cohesive whole. Also featured is a kinda general strategy that most
    strategies follow since there's not much variation at the beginning.
    
