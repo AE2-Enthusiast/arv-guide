@@ -12,5 +12,11 @@ documentation for details.
 
 
 .. toctree::
-   manual/manuals
+   :hidden:
+              
+   grand/grand
+   manual/manual
+   strategy/strategy
+   topic/topic
+   
 
